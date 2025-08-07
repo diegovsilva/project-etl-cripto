@@ -324,4 +324,5 @@ Este projeto demonstra a capacidade de desenvolver uma solução completa para c
 
 ## Autor
 
-Diego Vieira da Silva - Desenvolvido como parte de um desafio técnico para demonstração de habilidades em desenvolvimento Python, engenharia de dados e boas práticas de programação.
+Diego Vieira da Silva - Desenvolvido como parte de um desafio técnico para demonstração de habilidades em desenvolvimento Python, engenharia de dados e boas práticas de programação.#   c r i p t _ e t l  
+ 
