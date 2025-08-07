@@ -16,7 +16,7 @@ env/
 ENV/
 
 # Environment variables
-# .env
+.env
 
 # Airflow
 logs/
