@@ -54,16 +54,16 @@ Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga de
 
 **Para usuários Linux/Mac:**
 ```bash
-git clone <url-do-repositorio>
-cd cryptocurrency-etl
+git clone https://github.com/diegovsilva/project-etl-cripto.git
+cd project-etl-cripto
 chmod +x start.sh
 ./start.sh
 ```
 
 **Para usuários Windows:**
 ```cmd
-git clone <url-do-repositorio>
-cd cryptocurrency-etl
+git clone https://github.com/diegovsilva/project-etl-cripto.git
+cd project-etl-cripto
 start.bat
 ```
 
@@ -78,8 +78,8 @@ start.bat
 
 1. **Clone o repositório:**
    ```bash
-git clone <url-do-repositorio>
-cd cryptocurrency-etl
+git clone https://github.com/diegovsilva/project-etl-cripto.git
+cd project-etl-cripto
 ```
 
 2. **Configure as variáveis de ambiente:**
@@ -163,7 +163,7 @@ Após a inicialização (automática ou manual):
 ## Estrutura do Projeto
 
 ```
-cryptocurrency-etl/
+project-etl-cripto/
 ├── dags/                # Diretório com os DAGs do Airflow
 │   ├── cryptocurrency_dag.py            # DAG principal para coleta de dados
 │   └── cryptocurrency_continuous_dag.py  # DAG para coleta contínua
@@ -324,5 +324,4 @@ Este projeto demonstra a capacidade de desenvolver uma solução completa para c
 
 ## Autor
 
-Diego Vieira da Silva - Desenvolvido como parte de um desafio técnico para demonstração de habilidades em desenvolvimento Python, engenharia de dados e boas práticas de programação.#   c r i p t _ e t l  
- 
+Diego Vieira da Silva - Desenvolvido como parte de um desafio técnico para demonstração de habilidades em desenvolvimento Python, engenharia de dados e boas práticas de programação.
