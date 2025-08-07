@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+# .env
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+webserver_config.py
+
+
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Power BI files
+*.pbix
+*.pbit
+
+# Test files
+teste.py
+test_*.py
+*_test.py
+
+# Removed dashboard files
+# dashboard.html
+# dashboard_api.py
